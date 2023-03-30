@@ -17,3 +17,5 @@
 <br> 话说今天上的计算机组成原理和体系结构的课是不是也应该算在学习的内容里呢（xs
 ## 3月29日 周三
 + 复习了rust的结构、枚举、模块、Hashmap、Option和error处理部分，rustlings进度57/93 
+## 3月30日 周四
++ 复习了rust的generics, trait, lifetimes, tests, rustlings进度71/94 
