@@ -19,3 +19,5 @@
 + 复习了rust的结构、枚举、模块、Hashmap、Option和error处理部分，rustlings进度57/93 
 ## 3月30日 周四
 + 复习了rust的generics, trait, lifetimes, tests, rustlings进度71/94 
+## 3月31日 周五
++ 将rustlings做完了
