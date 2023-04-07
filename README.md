@@ -14,5 +14,4 @@
 + [4月Diary](/Diary/April/diary.md)
 
 ## 读书笔记
-目前在读：
-+ [《八次危机》 - 温铁军](./Reading_note/Eight_Crisis.md)
+在Reading_note目录下，有我在参加训练营过程中的读书笔记，是我平时在看书过程中的一些想法的记录，包括但不限于技术类书籍，希望能和大家多交流，共同进步。
