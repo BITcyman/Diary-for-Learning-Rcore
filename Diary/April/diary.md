@@ -68,3 +68,9 @@
 计划：
 + rCore-Tutorial-Book-v3第七章文档看完
 
+成果：
++ 今天上了一天课，但还是把rCore-Tutorial-Book-v3第七章中关于信号的文档看完了，准备明天调试代码部分。
+
+## 4月12日 周三
+计划：
++ rCore-Tutorial-Book-v3第七章做完，把实验报告写了
