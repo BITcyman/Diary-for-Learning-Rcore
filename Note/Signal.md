@@ -1,5 +1,5 @@
 # 关于操作系统中的信号机制
-(学习链接)[http://rcore-os.cn/rCore-Tutorial-Book-v3/chapter7/4signal.html#id11]
+[学习链接](http://rcore-os.cn/rCore-Tutorial-Book-v3/chapter7/4signal.html)
 <br>
 在读了这篇内容之后,对于进程的信号处理有了一些思考，希望理顺一下思路并记录下来。
 
