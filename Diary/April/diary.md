@@ -96,4 +96,7 @@
 + 仔细看了rCore-Tutorial-Book-v3的信号部分，这部分在训练营给的参考代码中没有，但仔细看过之后想了比较多，打算记录一下[这里](../../Note/Signal.md)。
 
 ## 4月17日 周一
-+ 
+计划：
++ rCore-Tutorial-Book-v3第八章并发
+
+
