@@ -8,7 +8,7 @@
   + [已完成] rustlings(94/94) 
   + [已完成] rCore-Tutorial-Book-v3第六章 文件系统
   + [已完成] rCore-Tutorial-Book-v3第七章 进程间通信和IO重定向
-  + rCore-Tutorial-Book-v3第八章 并发
+  + [已完成] rCore-Tutorial-Book-v3第八章 并发
   + rCore-Tutorial-Book-v3第九章 IO设备管理
   + rcore-2023s 前三章
 
