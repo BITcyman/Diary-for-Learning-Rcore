@@ -10,7 +10,11 @@
   + [已完成] rCore-Tutorial-Book-v3第七章 进程间通信和IO重定向
   + [已完成] rCore-Tutorial-Book-v3第八章 并发
   + rCore-Tutorial-Book-v3第九章 IO设备管理
-  + rcore-2023s 前三章
+  + [已完成] rcore-2023s lab1
+  + rcore-2023s lab2
+  + rcore-2023s lab3
+  + rcore-2023s lab4
+  + rcore-2023s lab5
 
 ## 日记
 + [3月Diary](/Diary/March/diary.md)
