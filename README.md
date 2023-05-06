@@ -11,7 +11,7 @@
   + [已完成] rCore-Tutorial-Book-v3第八章 并发
   + rCore-Tutorial-Book-v3第九章 IO设备管理
   + [已完成] rcore-2023s lab1
-  + rcore-2023s lab2
+  + [已完成] rcore-2023s lab2
   + rcore-2023s lab3
   + rcore-2023s lab4
   + rcore-2023s lab5
