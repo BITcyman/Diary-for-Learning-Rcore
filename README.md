@@ -13,7 +13,7 @@
   + [已完成] rcore-2023s lab1
   + [已完成] rcore-2023s lab2
   + [已完成] rcore-2023s lab3
-  + rcore-2023s lab4
+  + [已完成] rcore-2023s lab4
   + rcore-2023s lab5
 
 ## 日记
